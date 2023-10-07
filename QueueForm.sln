@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueForm", "QueueForm\QueueForm.csproj", "{BFB1AFE2-38AF-4201-A4BD-12E515E3D1A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB1AFE2-38AF-4201-A4BD-12E515E3D1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB1AFE2-38AF-4201-A4BD-12E515E3D1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB1AFE2-38AF-4201-A4BD-12E515E3D1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB1AFE2-38AF-4201-A4BD-12E515E3D1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A675EB50-5B7B-4843-9A2F-76B80F8F3A1C}
+	EndGlobalSection
+EndGlobal
